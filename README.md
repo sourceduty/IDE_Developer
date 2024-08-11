@@ -1,6 +1,6 @@
 ![IDE Developer](https://github.com/user-attachments/assets/52b83bef-51e0-4654-a479-df25162db26c)
 
-> Integrated development environment (IDE) development assistant. Utilize custom file formats and programming languages.
+> Integrated development environment (IDE) programming assistant. Utilize custom file formats and programming languages.
 
 #
 
