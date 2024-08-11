@@ -11,6 +11,10 @@ For developers working with custom formats or languages, this GPT provides speci
 In addition to supporting custom formats and languages, this GPT emphasizes the importance of extensibility and customization in modern IDEs. It guides you in designing extension systems that allow users to add plugins or new features to the IDE, making it more versatile and adaptable to different workflows. By providing support for creating APIs, extension points, and comprehensive documentation, this GPT ensures that the IDE not only meets the immediate needs of developers but also evolves with their changing requirements over time.
 
 #
+
+> Alex: "*Develop a custom IDE with a new format. Wow.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
